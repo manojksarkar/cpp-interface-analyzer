@@ -40,6 +40,12 @@ ENV/
 # Output files
 *.md
 !README.md
+!**/README.md
+!TEST_PROJECTS.md
+!CPP_INTERFACE_ANALYZER_PLAN.md
+!QUICK_START_TESTING.md
+!SETUP_GIT.md
+!PUSH_INSTRUCTIONS.md
 interfaces_table.md
 *.html
 *.csv
